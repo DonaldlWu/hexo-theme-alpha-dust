@@ -4,11 +4,8 @@ fa_logo: fa-cube
 # Header
 menu:
   Home: /
-  Archives: /archives
-  About: /about.html
-  Tags: /tags
-  Categories: /categories
-  Contact: /contact.html
+  Archives: /archives/index.html
+  About: /about/darrenwu.html
 
 # Default post title
 default_post_title: Untitled
@@ -25,7 +22,7 @@ comments:
 google_analytics:
 
 # Social Accounts
-twitter_url: https://twitter.com/?lang=en
+twitter_url: https://twitter.com/Deirenwu
 facebook_url: https://www.facebook.com/
 instagram_url: https://www.instagram.com/
 dribble_url: https://dribbble.com/
@@ -33,7 +30,7 @@ github_url: https://github.com/klugjo/hexo-theme-alpha-dust
 googleplus_url: https://plus.google.com/
 behance_url: https://www.behance.net/
 fivehundredpx_url: https://500px.com/
-email_url: test@example.com
+email_url: deirenwu1101@gmail.com
 rss_url: \#
 
 # Footer About Text

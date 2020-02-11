@@ -3,9 +3,9 @@ fa_logo: fa-cube
 
 # Header
 menu:
-  Home: /
-  Archives: /archives/index.html
-  About: /about/darrenwu.html
+  Home: /donaldwu.github.com
+  Archives: /donaldwu.github.com/archives/index.html
+  About: /donaldwu.github.com/about/darrenwu.html
 
 # Default post title
 default_post_title: Untitled
@@ -23,13 +23,7 @@ google_analytics:
 
 # Social Accounts
 twitter_url: https://twitter.com/Deirenwu
-facebook_url: https://www.facebook.com/
-instagram_url: https://www.instagram.com/
-dribble_url: https://dribbble.com/
 github_url: https://github.com/klugjo/hexo-theme-alpha-dust
-googleplus_url: https://plus.google.com/
-behance_url: https://www.behance.net/
-fivehundredpx_url: https://500px.com/
 email_url: deirenwu1101@gmail.com
 rss_url: \#
 
